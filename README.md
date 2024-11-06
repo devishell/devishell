@@ -42,7 +42,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/devishell/devishell/output/snake.svg" alt="ASNAILS" />
-
-###
