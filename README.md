@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning python<br>🎯 Goals: a house with dog<br>🎲 Fun fact: i play chess, read books , and take photos!</p>
+<p align="left">✨ Creating bugs since 2012<br>📚 I'm currently learning python<br>🎯 Goals: a house a dog a friend<br>🎲 Fun fact: i play chess, read books , and take photos!</p>
 
 ###
 
